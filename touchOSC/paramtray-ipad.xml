@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="6" mode="1" orientation="vertical">
+<tabpage name="1">
+<control name="rotary1" x="52" y="122" w="212" h="212" color="red" type="rotaryh" centered="false" />
+<control name="rotary2" x="52" y="390" w="212" h="212" color="red" type="rotaryh" centered="false" />
+<control name="rotary3" x="52" y="675" w="212" h="212" color="red" type="rotaryh" centered="false" />
+<control name="multitoggle2" x="411" y="284" w="200" h="50" color="blue" type="multitoggle" number_x="4" number_y="1" />
+<control name="label4" x="463" y="122" w="46" h="145" color="blue" type="labelv" text="cGFyYW1ldGVyIDM=" size="14" background="true" outline="false" />
+<control name="label5" x="412" y="122" w="46" h="145" color="yellow" type="labelv" text="cGFyYW1ldGVyIDQ=" size="14" background="true" outline="false" />
+<control name="label3" x="510" y="122" w="46" h="145" color="green" type="labelv" text="cGFyYW1ldGVyIDI=" size="14" background="true" outline="false" />
+<control name="param 1" x="559" y="123" w="46" h="145" color="red" type="labelv" text="cGFyYW1ldGVyIDE=" size="14" background="true" outline="false" />
+<control name="multitoggle4" x="411" y="834" w="200" h="50" color="blue" type="multitoggle" number_x="4" number_y="1" />
+<control name="label10" x="463" y="672" w="46" h="145" color="blue" type="labelv" text="cGFyYW1ldGVyIDM=" size="14" background="true" outline="false" />
+<control name="label11" x="413" y="671" w="46" h="145" color="yellow" type="labelv" text="cGFyYW1ldGVyIDQ=" size="14" background="true" outline="false" />
+<control name="label12" x="510" y="672" w="46" h="145" color="green" type="labelv" text="cGFyYW1ldGVyIDI=" size="14" background="true" outline="false" />
+<control name="label13" x="558" y="672" w="46" h="145" color="red" type="labelv" text="cGFyYW1ldGVyIDE=" size="14" background="true" outline="false" />
+<control name="led1" x="567" y="90" w="28" h="28" color="red" type="led" />
+<control name="led2" x="516" y="89" w="28" h="28" color="red" type="led" />
+<control name="led3" x="472" y="89" w="28" h="28" color="red" type="led" />
+<control name="led4" x="424" y="88" w="28" h="28" color="red" type="led" />
+<control name="led7" x="472" y="89" w="28" h="28" color="red" type="led" />
+<control name="led9" x="567" y="629" w="28" h="28" color="red" type="led" />
+<control name="led10" x="516" y="628" w="28" h="28" color="red" type="led" />
+<control name="led11" x="472" y="628" w="28" h="28" color="red" type="led" />
+<control name="led12" x="424" y="628" w="28" h="28" color="red" type="led" />
+<control name="led6" x="516" y="88" w="28" h="28" color="red" type="led" />
+<control name="led5" x="568" y="90" w="28" h="28" color="red" type="led" />
+<control name="led8" x="424" y="88" w="28" h="28" color="red" type="led" />
+</tabpage>
+</layout>

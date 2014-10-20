@@ -1,0 +1,9 @@
+<forwarder>
+    <in>
+        <bind addr = "tcp://127.0.0.1:10000"/>
+    </in>
+    <out>
+        <bind addr = "tcp://127.0.0.1:10778"/>
+    </out>
+</forwarder>
+
